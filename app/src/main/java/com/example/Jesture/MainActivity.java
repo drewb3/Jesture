@@ -60,8 +60,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void TestMethod(){
 
-        int i = 5;
-        int j = 3;
+        int i = 7;
+        int j = 5;
         int k = i+j;
     }
 }
