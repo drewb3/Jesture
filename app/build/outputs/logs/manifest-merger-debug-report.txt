@@ -36,7 +36,7 @@ INJECTED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\An
 INJECTED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml:2:1-37:12
 INJECTED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml:3:5-45
+		ADDED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\DrewB\Desktop\EC327 Final Project\Jesture\app\src\main\AndroidManifest.xml
 	android:versionName

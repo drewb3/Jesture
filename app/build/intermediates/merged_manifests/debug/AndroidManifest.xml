@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.animatedbackground"
+    package="com.example.Jesture"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -43,7 +43,7 @@
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.example.animatedbackground.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.Jesture.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
