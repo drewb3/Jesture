@@ -10,7 +10,7 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import com.example.animatedbackground.R;
+import com.example.Jesture.R;
 
 public class Main4Activity extends AppCompatActivity implements SensorEventListener {
 

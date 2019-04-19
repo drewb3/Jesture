@@ -13,7 +13,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.animatedbackground.R;
+import com.example.Jesture.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.animatedbackground.R;
+import com.example.Jesture.R;
 
 public class Main3Activity extends AppCompatActivity {
 
