@@ -57,4 +57,11 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
+    public void TestMethod(){
+
+        int i = 0;
+        int j = 1;
+        int k = i+j;
+    }
 }
