@@ -1,4 +1,4 @@
-package com.example.animatedbackground;
+package com.example.Jesture;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.Jesture.R;
 
 import java.util.List;
 
