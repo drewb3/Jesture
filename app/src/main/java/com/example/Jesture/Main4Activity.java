@@ -1,4 +1,4 @@
-package com.example.animatedbackground;
+package com.example.Jesture;
 
 import android.content.Context;
 import android.hardware.Sensor;
@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import com.example.animatedbackground.R;
 
 public class Main4Activity extends AppCompatActivity implements SensorEventListener {
 
